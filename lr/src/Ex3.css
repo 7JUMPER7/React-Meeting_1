@@ -1,0 +1,9 @@
+.container .Images {
+    display: flex;
+}
+.container .Images img {
+    height: 200px;
+    margin: 10px;
+    border-radius: 10px;
+    box-shadow: 0 0 7px 0 rgba(0, 0, 0, .3);
+}
